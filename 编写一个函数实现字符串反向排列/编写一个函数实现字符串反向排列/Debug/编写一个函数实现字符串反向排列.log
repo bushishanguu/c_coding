@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/8/21 7:32:31。
+     1>项目“G:\github 上传文件夹\编写一个函数实现字符串反向排列\编写一个函数实现字符串反向排列\编写一个函数实现字符串反向排列.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\VS安装地址\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>g:\github 上传文件夹\编写一个函数实现字符串反向排列\编写一个函数实现字符串反向排列\test.c(15): warning C4716: “reverse_string”: 必须返回一个值
+       Link:
+         E:\VS\VS安装地址\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\github 上传文件夹\编写一个函数实现字符串反向排列\Debug\编写一个函数实现字符串反向排列.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\github 上传文件夹\编写一个函数实现字符串反向排列\Debug\编写一个函数实现字符串反向排列.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\github 上传文件夹\编写一个函数实现字符串反向排列\Debug\编写一个函数实现字符串反向排列.lib" /MACHINE:X86 Debug\test.obj
+         编写一个函数实现字符串反向排列.vcxproj -> G:\github 上传文件夹\编写一个函数实现字符串反向排列\Debug\编写一个函数实现字符串反向排列.exe
+     1>已完成生成项目“G:\github 上传文件夹\编写一个函数实现字符串反向排列\编写一个函数实现字符串反向排列\编写一个函数实现字符串反向排列.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.36
