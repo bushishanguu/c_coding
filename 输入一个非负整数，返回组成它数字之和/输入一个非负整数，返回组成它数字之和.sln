@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输入一个非负整数，返回组成它数字之和", "输入一个非负整数，返回组成它数字之和\输入一个非负整数，返回组成它数字之和.vcxproj", "{F1123B85-5D72-466B-8C64-F1446B33F300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1123B85-5D72-466B-8C64-F1446B33F300}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1123B85-5D72-466B-8C64-F1446B33F300}.Debug|Win32.Build.0 = Debug|Win32
+		{F1123B85-5D72-466B-8C64-F1446B33F300}.Release|Win32.ActiveCfg = Release|Win32
+		{F1123B85-5D72-466B-8C64-F1446B33F300}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
