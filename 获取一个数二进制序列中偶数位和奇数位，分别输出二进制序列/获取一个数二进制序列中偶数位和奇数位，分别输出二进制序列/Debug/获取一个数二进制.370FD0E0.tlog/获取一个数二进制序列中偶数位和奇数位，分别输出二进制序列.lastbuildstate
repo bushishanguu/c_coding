@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|G:\github 上传文件夹\获取一个数二进制序列中偶数位和奇数位，分别输出二进制序列\|
